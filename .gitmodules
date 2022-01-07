@@ -1,0 +1,3 @@
+[submodule "badbot-protos"]
+	path = badbot-protos
+	url = https://github.com/badbot-v1/badbot-protos
